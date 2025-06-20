@@ -1,6 +1,6 @@
 [![Albert337](https://img.shields.io/badge/Albert337-github-blue?logo=github)](https://github.com/Albert337)
 
-<strong>He is a guy who is passionate about new technologies. </strong>If you have any new explosive ideas, feel free to communicate with him anytime and anywhere.
+<strong>He is a guy who is passionate about new technologies. </strong>If you have any new explosive ideas, feel free to communicate with him anytime and anywhere. And my email is xiaoxiaoamugong@163.com
 
 
 [[csdn]](https://blog.csdn.net/xiaomu_347?spm=1000.2115.3001.10640) (相关技术分享博客)
