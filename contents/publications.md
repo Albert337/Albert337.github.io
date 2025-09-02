@@ -1,1 +1,2 @@
 - just do it by yourself
+- learning is a persistent pursuit

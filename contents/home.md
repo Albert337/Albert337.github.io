@@ -8,9 +8,10 @@ about him please consult with [Amu agent](http://121.37.142.211:6789).
 - 框架工具：PyTorch、MMDetection、ONNX、TensorRT、Openvino、ROS、PYQT、Ollama、LangChain、deepspeed/Vllm
 - 多模态/大模型：CLIP、LLAVA、SAM、BEVFusion等
 - CV经验：YOLO、FCOS3D、Detr、MapTR、图像分割、目标检测、分割跟踪任务等
-- NLP经验：llama.cpp、Qwen2.5、RAG、Agent、基于lora微调LLM等
+- NLP经验：llama.cpp、Qwen2.5、RAG/MCP、Agent、SFT/lora微调LLM等
 - 硬件经验：Nvidia xavier/orin、地平线J3/J5、瑞芯微等 
 - 工程经验：模型训练优化、CI/CD、量化推理加速部署、自动标注、智能体系统构建、编译可执行文件等
+- 具身智能学习经历：强化学习（PPO/DPO/DQN等）、仿真（ISSAIC_sim、MuJoco、Gym、Bullet等）  
 
 ## 其他平台
 [[csdn]](https://blog.csdn.net/xiaomu_347?spm=1000.2115.3001.10640) (相关技术分享博客)
